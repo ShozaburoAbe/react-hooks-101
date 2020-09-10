@@ -26,10 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcc78760-bab9-43e2-99cd-fb5f65651e44" name="Default Changelist" comment="implement callbacks with useEffect">
-      <change afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Event.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Event.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/EventForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/EventForm.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +46,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="separate-components" />
+        <entry key="$PROJECT_DIR$" value="types-of-action-like-constants" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -84,7 +81,7 @@
       <workItem from="1599503583720" duration="3410000" />
       <workItem from="1599542886470" duration="12457000" />
       <workItem from="1599638947893" duration="38000" />
-      <workItem from="1599743136170" duration="7559000" />
+      <workItem from="1599743136170" duration="9338000" />
     </task>
     <task id="LOCAL-00001" summary="implement object state">
       <created>1599554829261</created>
@@ -136,10 +133,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="implement callbacks with useEffect" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1959" y="-217" key="SettingsEditor" timestamp="1599582912342">
+    <state x="1959" y="-217" key="SettingsEditor" timestamp="1599754087400">
       <screen x="1440" y="-376" width="1920" height="1057" />
     </state>
-    <state x="1959" y="-217" key="SettingsEditor/0.23.1440.877/1440.-376.1920.1057@1440.-376.1920.1057" timestamp="1599582912342" />
+    <state x="1959" y="-217" key="SettingsEditor/0.23.1440.877/1440.-376.1920.1057@1440.-376.1920.1057" timestamp="1599754087400" />
     <state x="2050" y="-120" key="Vcs.Push.Dialog.v2" timestamp="1599554895129">
       <screen x="1440" y="-376" width="1920" height="1057" />
     </state>
