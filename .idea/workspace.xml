@@ -25,7 +25,12 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bcc78760-bab9-43e2-99cd-fb5f65651e44" name="Default Changelist" comment="implement callbacks with useEffect" />
+    <list default="true" id="bcc78760-bab9-43e2-99cd-fb5f65651e44" name="Default Changelist" comment="implement callbacks with useEffect">
+      <change afterPath="$PROJECT_DIR$/src/components/Event.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +82,9 @@
       <updated>1599499692901</updated>
       <workItem from="1599499696186" duration="203000" />
       <workItem from="1599503583720" duration="3410000" />
-      <workItem from="1599542886470" duration="12123000" />
+      <workItem from="1599542886470" duration="12457000" />
+      <workItem from="1599638947893" duration="38000" />
+      <workItem from="1599743136170" duration="2935000" />
     </task>
     <task id="LOCAL-00001" summary="implement object state">
       <created>1599554829261</created>
