@@ -25,7 +25,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bcc78760-bab9-43e2-99cd-fb5f65651e44" name="Default Changelist" comment="implement callbacks with useEffect" />
+    <list default="true" id="bcc78760-bab9-43e2-99cd-fb5f65651e44" name="Default Changelist" comment="implement callbacks with useEffect">
+      <change beforePath="$PROJECT_DIR$/src/components/EventForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/EventForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +47,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="refector-events-reducer" />
+        <entry key="$PROJECT_DIR$" value="create-operationLogs-reducer" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -80,7 +83,7 @@
       <workItem from="1599542886470" duration="12457000" />
       <workItem from="1599638947893" duration="38000" />
       <workItem from="1599743136170" duration="12184000" />
-      <workItem from="1599842133648" duration="2854000" />
+      <workItem from="1599842133648" duration="3369000" />
     </task>
     <task id="LOCAL-00001" summary="implement object state">
       <created>1599554829261</created>
